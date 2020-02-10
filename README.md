@@ -1,4 +1,4 @@
-# Excel-graphing-data_manipulation
+# Excel graphing and data manipulation
 
 This repo contains a series of challenges solved using techniques and data manipulation in excel. The challenges range from graphing to regression analysis.
 
